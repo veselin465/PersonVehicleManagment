@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="PersonVehicleManagmentTest" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/PersonVehicleManagmentTest" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/PersonVehicleManagmentTest" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="../PersonVehicleManagment/ControlCenter.cpp" />
+		<Unit filename="../PersonVehicleManagment/ControlCenter.h" />
+		<Unit filename="../PersonVehicleManagment/PeopleList.cpp" />
+		<Unit filename="../PersonVehicleManagment/PeopleList.h" />
+		<Unit filename="../PersonVehicleManagment/Person.cpp" />
+		<Unit filename="../PersonVehicleManagment/Person.h" />
+		<Unit filename="../PersonVehicleManagment/Registration.cpp" />
+		<Unit filename="../PersonVehicleManagment/Registration.h" />
+		<Unit filename="../PersonVehicleManagment/Vehicle.cpp" />
+		<Unit filename="../PersonVehicleManagment/Vehicle.h" />
+		<Unit filename="../PersonVehicleManagment/VehicleList.cpp" />
+		<Unit filename="../PersonVehicleManagment/VehicleList.h" />
+		<Unit filename="ControlCenterTest.cpp" />
+		<Unit filename="PeopleListTest.cpp" />
+		<Unit filename="PersonTest.cpp" />
+		<Unit filename="RegistrationTest.cpp" />
+		<Unit filename="VehicleListTest.cpp" />
+		<Unit filename="VehicleTest.cpp" />
+		<Unit filename="catch_amalgamated.cpp" />
+		<Unit filename="catch_amalgamated.hpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

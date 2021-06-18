@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1621770995 source:g:\su\programming\personvehiclemanagment\personvehiclemanagment\controlcenter.cpp
+	<iostream>
+	<fstream>
+	"ControlCenter.h"
+
+1621770982 g:\su\programming\personvehiclemanagment\personvehiclemanagment\controlcenter.h
+	<iostream>
+	<vector>
+	"VehicleList.h"
+	"PeopleList.h"
+
+1621704571 g:\su\programming\personvehiclemanagment\personvehiclemanagment\vehiclelist.h
+	<vector>
+	"Vehicle.h"
+
+1621703036 g:\su\programming\personvehiclemanagment\personvehiclemanagment\vehicle.h
+	<iostream>
+	"Registration.h"
+
+1621604496 g:\su\programming\personvehiclemanagment\personvehiclemanagment\registration.h
+	<iostream>
+
+1621712862 g:\su\programming\personvehiclemanagment\personvehiclemanagment\peoplelist.h
+	<vector>
+	"Person.h"
+
+1621607302 g:\su\programming\personvehiclemanagment\personvehiclemanagment\person.h
+	"Vehicle.h"
+
+1622020838 source:g:\su\programming\personvehiclemanagment\personvehiclemanagment\main.cpp
+	<iostream>
+	"ControlCenter.h"
+	"Registration.h"
+	"Person.h"
+	"Vehicle.h"
+
+1621704559 source:g:\su\programming\personvehiclemanagment\personvehiclemanagment\peoplelist.cpp
+	<iostream>
+	"PeopleList.h"
+
+1621608380 source:g:\su\programming\personvehiclemanagment\personvehiclemanagment\person.cpp
+	<iostream>
+	"Person.h"
+
+1621703032 source:g:\su\programming\personvehiclemanagment\personvehiclemanagment\vehicle.cpp
+	"Registration.h"
+	"Vehicle.h"
+	<string.h>
+
+1621704578 source:g:\su\programming\personvehiclemanagment\personvehiclemanagment\vehiclelist.cpp
+	<iostream>
+	"VehicleList.h"
+
+1621604488 source:g:\su\programming\personvehiclemanagment\personvehiclemanagment\registration.cpp
+	<iostream>
+	<string.h>
+	"Registration.h"
+
