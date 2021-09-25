@@ -26,9 +26,7 @@ int main(int argc, char* argv[])
         std::cout << "\n";
     }
 
-    //cc.loadFromFile("s.txt");
-
-    cc.loadFromFile("G:\\SU\\programming\\PersonVehicleManagment\\PersonVehicleManagmen\\s.txt");
+    cc.loadFromFile("s.txt");
 
     std::string input = "";
 
@@ -60,9 +58,6 @@ int main(int argc, char* argv[])
         std::cout << std::endl;
 
     }
-
-
-
 
     return 0;
 }

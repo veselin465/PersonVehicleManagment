@@ -1,60 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_layout_file>
 	<FileVersion major="1" minor="0" />
-	<ActiveTarget name="Release" />
-	<File name="..\PersonVehicleManagment\VehicleList.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="11" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="523" topLine="0" />
-		</Cursor>
-	</File>
+	<ActiveTarget name="Debug" />
 	<File name="..\PersonVehicleManagment\Vehicle.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="11" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="266" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="catch_amalgamated.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="12" zoom_2="0">
+	<File name="VehicleListTest.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="16067" topLine="9409" />
-		</Cursor>
-	</File>
-	<File name="..\PersonVehicleManagment\Registration.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="9" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="83" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\PersonVehicleManagment\VehicleList.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="11" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="2241" topLine="68" />
-		</Cursor>
-	</File>
-	<File name="PeopleListTest.cpp" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="12" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="594" topLine="160" />
-		</Cursor>
-	</File>
-	<File name="..\PersonVehicleManagment\ControlCenter.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="10" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1166" topLine="37" />
-		</Cursor>
-	</File>
-	<File name="RegistrationTest.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="9" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="12" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="VehicleListTest.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="4784" topLine="157" />
-		</Cursor>
-	</File>
-	<File name="..\PersonVehicleManagment\ControlCenter.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="7527" topLine="284" />
-		</Cursor>
-	</File>
-	<File name="ControlCenterTest.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="6150" topLine="204" />
+			<Cursor1 position="4784" topLine="140" />
 		</Cursor>
 	</File>
 	<File name="..\PersonVehicleManagment\Person.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -62,19 +17,14 @@
 			<Cursor1 position="130" topLine="0" />
 		</Cursor>
 	</File>
+	<File name="PeopleListTest.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="12" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3437" topLine="119" />
+		</Cursor>
+	</File>
 	<File name="..\PersonVehicleManagment\Registration.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="11" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="221" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\PersonVehicleManagment\Person.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="10" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="339" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="PersonTest.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="2" topLine="77" />
 		</Cursor>
 	</File>
 	<File name="..\PersonVehicleManagment\PeopleList.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
@@ -82,9 +32,14 @@
 			<Cursor1 position="1872" topLine="57" />
 		</Cursor>
 	</File>
-	<File name="..\PersonVehicleManagment\Vehicle.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+	<File name="VehicleTest.cpp" open="1" top="1" tabpos="7" split="0" active="1" splitpos="0" zoom_1="10" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="83" topLine="0" />
+			<Cursor1 position="1953" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ControlCenterTest.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6690" topLine="204" />
 		</Cursor>
 	</File>
 	<File name="catch_amalgamated.hpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -92,14 +47,59 @@
 			<Cursor1 position="8935" topLine="274" />
 		</Cursor>
 	</File>
+	<File name="PersonTest.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2" topLine="68" />
+		</Cursor>
+	</File>
+	<File name="RegistrationTest.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="9" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\PersonVehicleManagment\Person.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="339" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\PersonVehicleManagment\Registration.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="9" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="83" topLine="0" />
+		</Cursor>
+	</File>
 	<File name="..\PersonVehicleManagment\PeopleList.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="10" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="204" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="VehicleTest.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="10" zoom_2="0">
+	<File name="..\PersonVehicleManagment\VehicleList.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="11" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="1874" topLine="48" />
+			<Cursor1 position="523" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="catch_amalgamated.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="12" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="16067" topLine="9377" />
+		</Cursor>
+	</File>
+	<File name="..\PersonVehicleManagment\ControlCenter.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1166" topLine="37" />
+		</Cursor>
+	</File>
+	<File name="..\PersonVehicleManagment\ControlCenter.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="864" topLine="25" />
+		</Cursor>
+	</File>
+	<File name="..\PersonVehicleManagment\Vehicle.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="83" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\PersonVehicleManagment\VehicleList.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="11" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2241" topLine="68" />
 		</Cursor>
 	</File>
 </CodeBlocks_layout_file>
